@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "trafficsystem-b9951"
+  },
+  "targets": {
+    "trafficsystem-b9951": {
+      "hosting": {
+        "dashboard": [
+          "trafficsystem-b9951"
+        ]
+      }
+    }
+  }
+}
